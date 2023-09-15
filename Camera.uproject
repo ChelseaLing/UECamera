@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{83BCC780-4C1C-0478-7E01-989E64FD4922}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		}
+	]
+}
