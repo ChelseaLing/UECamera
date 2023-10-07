@@ -3,6 +3,21 @@
 	"EngineAssociation": "{83BCC780-4C1C-0478-7E01-989E64FD4922}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Camera",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		},
+		{
+			"Name": "CameraEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "RawInput",
