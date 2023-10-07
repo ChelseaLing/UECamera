@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealProject\\VehicleCamera\\Camera\\Source\\CameraEditor\\CameraEditor\\CameraEditor.Build.cs",
+		"C:\\UnrealProject\\VehicleCamera\\Camera\\Source\\Camera\\Camera.Build.cs",
+		"C:\\UnrealProject\\VehicleCamera\\Camera\\Source\\Camera.Target.cs",
+		"C:\\UnrealProject\\VehicleCamera\\Camera\\Source\\CameraEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

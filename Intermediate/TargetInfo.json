@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Camera",
+			"Path": "..\\Source\\Camera.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CameraEditor",
+			"Path": "..\\Source\\CameraEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

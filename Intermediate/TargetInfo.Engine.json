@@ -1,0 +1,439 @@
+{
+	"Targets": [
+		{
+			"Name": "AutoRTFMTests",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\AutoRTFMTests\\AutoRTFMTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "BaseTextureBuildWorker",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\BaseTextureBuildWorker\\BaseTextureBuildWorker.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "BenchmarkTool",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\BenchmarkTool\\BenchmarkTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "BlankProgram",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\BlankProgram\\BlankProgram.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "BuildPatchTool",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\BuildPatchTool\\BuildPatchTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "ChaosUserDataPTTests",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\ChaosUserDataPTTests\\ChaosUserDataPTTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "ChaosVisualDebugger",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\ChaosVisualDebugger\\ChaosVisualDebugger.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "CrashReportClient",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\CrashReportClient\\CrashReportClient.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "CrashReportClientEditor",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\CrashReportClient\\CrashReportClientEditor.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DerivedDataTool",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\DerivedDataTool\\DerivedDataTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithUE4ArchiCAD",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithARCHICADExporter\\DatsmithUE4ArchiCAD\\DatasmithUE4ArchiCAD.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithArchiCAD",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithARCHICADExporter\\UBTModules\\DatasmithArchiCAD.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithCADWorker",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithCADWorker\\DatasmithCADWorker.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithFacadeCSharp",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithFacadeCSharp\\DatasmithFacadeCSharp.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2016",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2016.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2017",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2017.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2018",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2018.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2019",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2019.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2020",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2020.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2021",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2021.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2022",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2022.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2023",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2023.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithMax2024",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithMaxExporter\\DatasmithMax2024.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithNavisworks2019",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithNavisworksExporter\\UBTModules\\DatasmithNavisworks2019.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithNavisworks2020",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithNavisworksExporter\\UBTModules\\DatasmithNavisworks2020.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithNavisworks2021",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithNavisworksExporter\\UBTModules\\DatasmithNavisworks2021.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithNavisworks2022",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithNavisworksExporter\\UBTModules\\DatasmithNavisworks2022.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithNavisworks2023",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithNavisworksExporter\\UBTModules\\DatasmithNavisworks2023.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithNavisworks2024",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithNavisworksExporter\\UBTModules\\DatasmithNavisworks2024.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithRevit2018",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithRevitExporter\\DatasmithRevit2018.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithRevit2019",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithRevitExporter\\DatasmithRevit2019.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithRevit2020",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithRevitExporter\\DatasmithRevit2020.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithRevit2021",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithRevitExporter\\DatasmithRevit2021.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithRevit2022",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithRevitExporter\\DatasmithRevit2022.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithRevit2023",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithRevitExporter\\DatasmithRevit2023.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithRhino6",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithRhinoExporter\\DatasmithRhino6.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithRhino7",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithRhinoExporter\\DatasmithRhino7.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithSDK",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithSDK\\DatasmithSDK.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithSketchUpRuby2019",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithSketchUpRubyExporter\\DatasmithSketchUpRuby2019.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithSketchUpRuby2020",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithSketchUpRubyExporter\\DatasmithSketchUpRuby2020.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithSketchUpRuby2021",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithSketchUpRubyExporter\\DatasmithSketchUpRuby2021.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithSketchUpRuby2022",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithSketchUpRubyExporter\\DatasmithSketchUpRuby2022.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithSketchUpRuby2023",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithSketchUpRubyExporter\\DatasmithSketchUpRuby2023.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DatasmithSolidworks2021",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Enterprise\\Datasmith\\DatasmithSolidworksExporter\\DatasmithSolidworks2021.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "EpicWebHelper",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\EpicWebHelper\\EpicWebHelper.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "HeadlessChaosPerf",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\HeadlessChaosPerf\\HeadlessChaosPerf.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "HeadlessChaos",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\HeadlessChaos\\HeadlessChaos.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealLaunchDaemon",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\IOS\\UnrealLaunchDaemon\\UnrealLaunchDaemon.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "InterchangeWorker",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\InterchangeWorker\\InterchangeWorker.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "LiveCodingConsole",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\LiveCodingConsole\\LiveCodingConsole.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "FoundationTests",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\LowLevelTests\\FoundationTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DsymExporter",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Mac\\DsymExporter\\DsymExporter.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealAtoS",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Mac\\UnrealAtoS\\UnrealAtoS.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealEditorServices",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Mac\\UnrealEditorServices\\UnrealEditorServices.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "NetworkPredictionTests",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\NetworkPredictionTests\\NetworkPredictionTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "ReplicationSystemLowLevelTests",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\ReplicationSystemLowLevelTests\\ReplicationSystemLowLevelTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "ReplicationSystemTest",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\ReplicationSystemTest\\ReplicationSystemTest.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "ShaderCompileWorker",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\ShaderCompileWorker\\ShaderCompileWorker.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "DotNetPerforceLib",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Shared\\EpicGames.Perforce.Native\\DotNetPerforceLib.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "SlateUGS",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\SlateUGS\\SlateUGS.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "SlateViewer",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\SlateViewer\\SlateViewer.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "SwitchboardListenerHelper",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\SwitchboardListenerHelper\\SwitchboardListenerHelper.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "SwitchboardListener",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\SwitchboardListener\\SwitchboardListener.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "SymsLibDump",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\SymsLibDump\\SymsLibDump.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "TestPAL",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\TestPAL\\TestPAL.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UninstallHelper",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UninstallHelper\\UninstallHelper.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealFrontend",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealFrontend\\UnrealFrontend.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealInsights",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealInsights\\UnrealInsights.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealLightmass",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealLightmass\\UnrealLightmass.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealMultiUserServer",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealMultiUserServer\\UnrealMultiUserServer.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealMultiUserSlateServer",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealMultiUserSlateServer\\UnrealMultiUserSlateServer.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealObjectPtrTool",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealObjectPtrTool\\UnrealObjectPtrTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealPackageTool",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealPackageTool\\UnrealPackageTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealPak",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealPak\\UnrealPak.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealRecoverySvc",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealRecoverySvc\\UnrealRecoverySvc.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealVersionSelector",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealVersionSelector\\UnrealVersionSelector.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealVirtualizationTool",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\UnrealVirtualizationTool\\UnrealVirtualizationTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "Unsync",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Unsync\\Unsync.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "TextureShareSDK",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\VirtualProduction\\TextureShare\\TextureShareSDK.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "WebTests",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\WebTests\\WebTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "BootstrapPackagedGame",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\Windows\\BootstrapPackagedGame\\BootstrapPackagedGame.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "ZenDashboard",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Programs\\ZenDashboard\\ZenDashboard.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "EventLoopUnitTests",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\Runtime\\Online\\Experimental\\EventLoopTests\\EventLoopUnitTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealClient",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\UnrealClient.Target.cs",
+			"Type": "Client"
+		},
+		{
+			"Name": "UnrealEditor",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\UnrealEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "UnrealGame",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\UnrealGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealServer",
+			"Path": "..\\..\\..\\..\\UnrealEngine\\Engine\\Source\\UnrealServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}

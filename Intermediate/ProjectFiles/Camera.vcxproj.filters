@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Camera.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Camera.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CameraEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\LICENSE" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CameraEditor">
+      <UniqueIdentifier>{3A9DEC9E-2022-3DA2-B0BC-0DA1053316FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CameraEditor\CameraEditor">
+      <UniqueIdentifier>{2B5626C9-788C-35B1-AE5F-DFC05F2B2FEA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CameraEditor\CameraEditor\CameraEditor.Build.cs">
+      <Filter>Source\CameraEditor\CameraEditor</Filter>
+    </None>
+    <Filter Include="Source\CameraEditor\CameraEditor\Private">
+      <UniqueIdentifier>{91B3DBC3-2041-36DD-9FC3-2096BF79AE44}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CameraEditor\CameraEditor\Private\CameraEditor.cpp">
+      <Filter>Source\CameraEditor\CameraEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CameraEditor\CameraEditor\Private\Factories">
+      <UniqueIdentifier>{CF4D65B4-94DA-3276-B8C0-66B30C950CFC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CameraEditor\CameraEditor\Private\Factories\CustomSpringParamActions.cpp">
+      <Filter>Source\CameraEditor\CameraEditor\Private\Factories</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CameraEditor\CameraEditor\Private\Factories\CustomSpringParamFactory.cpp">
+      <Filter>Source\CameraEditor\CameraEditor\Private\Factories</Filter>
+    </ClCompile>
+    <Filter Include="Source\CameraEditor\CameraEditor\Public">
+      <UniqueIdentifier>{C5D48A05-C654-33DB-B547-F73E00C28624}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CameraEditor\CameraEditor\Public\CameraEditor.h">
+      <Filter>Source\CameraEditor\CameraEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\CameraEditor\CameraEditor\Public\Factories">
+      <UniqueIdentifier>{A8FB31E1-CB7F-3B86-979B-95F1F39DDC3B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CameraEditor\CameraEditor\Public\Factories\CustomSpringParamActions.h">
+      <Filter>Source\CameraEditor\CameraEditor\Public\Factories</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CameraEditor\CameraEditor\Public\Factories\CustomSpringParamFactory.h">
+      <Filter>Source\CameraEditor\CameraEditor\Public\Factories</Filter>
+    </ClInclude>
+    <Filter Include="Source\Camera">
+      <UniqueIdentifier>{28EC38D2-818D-38BF-83E5-491BE1DB2C2C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Camera\Camera.Build.cs">
+      <Filter>Source\Camera</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Camera\Camera.cpp">
+      <Filter>Source\Camera</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Camera\Camera.h">
+      <Filter>Source\Camera</Filter>
+    </ClInclude>
+    <Filter Include="Source\Camera\Component">
+      <UniqueIdentifier>{13AC84B5-40EC-3998-A8A8-5BAB064730C4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Camera\Component\CustomCameraComponent.cpp">
+      <Filter>Source\Camera\Component</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Camera\Component\CustomCameraComponent.h">
+      <Filter>Source\Camera\Component</Filter>
+    </ClInclude>
+    <Filter Include="Source\Camera\Spring">
+      <UniqueIdentifier>{6D3F3313-7804-36AD-8CE4-9E1B988EEC5E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Camera\Spring\CustomCameraSpring.cpp">
+      <Filter>Source\Camera\Spring</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Camera\Spring\CustomCameraSpring.h">
+      <Filter>Source\Camera\Spring</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Camera\Spring\CustomCameraSpringParam.cpp">
+      <Filter>Source\Camera\Spring</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Camera\Spring\CustomCameraSpringParam.h">
+      <Filter>Source\Camera\Spring</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
